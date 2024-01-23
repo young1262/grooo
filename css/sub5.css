@@ -1,0 +1,49 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800;900&display=swap');
+
+
+
+.rocation{
+  width: 100%;
+  height: 100%;  
+  background: url(../img/sub/zeng-yili-on69oZI29aA-unsplash.jpg);
+  padding-bottom: 120px;
+}
+h2{
+padding-top: 220px;
+font-size: 42px;
+font-weight: 500;
+color: #f0f0f0;
+margin-bottom: 30px;
+text-align: center;
+
+}
+
+.map {
+  width: 1200px;
+  
+  border-radius: 20px;
+  margin: auto; 
+  background: #18202E;
+ 
+}
+.map iframe {
+  border-radius: 20px 20px 0 0;
+  height: 580px;
+}
+.map_text {
+  padding-top: 20px;
+  text-align: center;
+  color: #f0f0f0;
+  font-size: 16px;
+  line-height: 1.5;
+  
+}
+.map_text > p:first-child {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+

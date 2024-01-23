@@ -1,0 +1,38 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800;900&display=swap');
+
+/* sub main visual */
+
+.content {
+  text-align: center;
+  padding-top: 220px;
+  padding-bottom: 120px;
+}
+.content h1 {  
+  font-size: 42px;
+  font-weight: 500;
+  color: #213555;
+  margin-bottom: 30px;
+}
+.content img {
+width: 500px;
+height: 300px;
+}
+.content-text {
+  color: #333;
+  line-height: 1.5;
+  margin-top: 30px;
+  font-weight: 500;
+}
+.content-text > span {
+  font-size: 22px; 
+}
+.content-text  strong {
+  color: #035da7;
+  
+}
+.content-text > p {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #444;
+}

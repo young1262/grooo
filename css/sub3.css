@@ -1,0 +1,23 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800;900&display=swap');
+
+
+main {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 220px;
+    margin-bottom: 120px;
+}
+
+.group h2 {
+    
+    font-size: 42px;
+    font-weight: 500;
+    color: #1262A2;
+}
+.group img {
+   width: 100%;
+   height: 920px;
+   object-fit: none;
+} 
